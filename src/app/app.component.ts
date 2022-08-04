@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-14-firebase-crud';
+  title = 'Angular 14 Firebase CRUD';
 }
